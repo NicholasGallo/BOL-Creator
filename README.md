@@ -61,7 +61,7 @@ The final set of documents can be printed together as a complete, shipment-ready
 
 - **Python**
 - **pdfplumber** — PDF text/data extraction
-- **python-docx** (implied) — Master BOL and Supplement file generation
+- **python-docx** — Master BOL and Supplement file generation
 
 ## Impact
 
